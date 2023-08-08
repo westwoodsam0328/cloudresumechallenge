@@ -2,7 +2,7 @@
 
 async function getVisitors() {
     try {
-        const response = await fetch('https://swzmfga9rk.execute-api.us-east-1.amazonaws.com/default/VisitorCounter', {
+        const response = await fetch('https://av0exkt874.execute-api.ap-southeast-2.amazonaws.com/default/VisitorCounter', {
             method: 'GET'
         });
 
